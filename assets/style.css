@@ -1,0 +1,40 @@
+.navbar-brand{
+  color: #3E91B3 !important;
+  font-size: 32px !important;
+  font-weight: bold !important;
+  position: relative;
+  right: -40%;
+}
+
+body{
+  background-image: url(images/psychic.gif) !important;
+}
+
+.col-md-6{
+  background-color: white !important;
+  opacity: .9 !important;
+  border-radius: 15px !important;
+  position: relative !important;
+  right: -25% !important;
+
+}
+
+p{
+  font-size: 24px !important;
+}
+
+footer {
+  background-color: white;
+  height: 70px;
+  width: 100%;
+  color: #3E91B3;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif; text-align: center;
+  padding-top: 20px;
+  position: fixed;
+  bottom: 0px;
+  border-top: solid #3E91B3 5px;"
+}
+
+h2{
+  text-align: center;
+}
